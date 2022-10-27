@@ -1,4 +1,4 @@
-package a2staticdemo;
+package javafundation.a2staticdemo;
 
 public class TestDemo {
     public static void main(String[] args) {

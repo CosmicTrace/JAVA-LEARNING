@@ -1,4 +1,4 @@
-package a1staticdemo;
+package javafundation.a1staticdemo;
 
 public class Student {
     //属性：姓名 年龄 性别
