@@ -1,4 +1,4 @@
-package javafundation.a4staticdemo;
+package a4staticdemo;
 /*
     总结：
         静态方法没有this关键字

@@ -1,4 +1,4 @@
-package javafundation.a5staticdemo;
+package a5staticdemo;
 
 public class Test {
     public static void main(String[] args){

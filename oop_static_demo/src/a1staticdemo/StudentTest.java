@@ -1,4 +1,4 @@
-package javafundation.a1staticdemo;
+package a1staticdemo;
 
 public class StudentTest {
     public static void main(String[] args){ //CTRL+D 可以直接复制上一行到下一行

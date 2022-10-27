@@ -1,4 +1,4 @@
-package javafundation.a4staticdemo;
+package a4staticdemo;
 
 public class StudentTest {
     public static void main(String[] args){

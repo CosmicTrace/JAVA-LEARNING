@@ -1,4 +1,4 @@
-package javafundation.a2staticdemo;
+package a2staticdemo;
 
 public class ArrayUtil {
     //私有化构造方法

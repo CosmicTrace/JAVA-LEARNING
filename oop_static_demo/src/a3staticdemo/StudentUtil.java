@@ -1,4 +1,4 @@
-package javafundation.a3staticdemo;
+package a3staticdemo;
 
 import java.util.ArrayList;
 
